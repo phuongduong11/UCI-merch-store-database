@@ -10,25 +10,25 @@ This project designs and analyzes a relational database for a fictional **UCI Sp
   <img src="figures/Entities.png" alt="Entity Overview" width="300"/>
 - Designed **metadata** with attributes, data types, constraints, and examples
   
-  <img src="figures/Metadata.png" alt="Entity Overview" width="300"/>
+  <img src="figures/Metadata.png" alt="Metadata" width="300"/>
 - Defined **relationships** and **business rules** for managing data
   
-  <img src="figures/Relationships.png" alt="Entity Overview" width="300"/>
+  <img src="figures/Relationships.png" alt="Relationships" width="300"/>
 
 - Created an **ER diagram** to visualize relationships (using draw.io)
 
-  <img src="figures/ ER Diagram.png" alt="Entity Overview" width="300"/>
+  <img src="figures/ ER Diagram.png" alt=" ER Diagram" width="300"/>
 > Full Excel template file included in `data_dictionary/meta_deta.xlsx`
 
 ## Stage 2: Design A Logical Database
 
 - Constructed relational schema diagrams with **primary/foreign keys**.
 
-  <img src="figures/Relational Model .jpeg" alt="Entity Overview" width="500"/>
+  <img src="figures/Relational Model .jpeg" alt="Relational Model" width="500"/>
   
 - Normalized all tables to **Third Normal Form (3NF)**.
   
-  <img src="figures/As-Is Dependency.png" alt="Entity Overview" width="500"/>
+  <img src="figures/As-Is Dependency.png" alt="As-Is Dependency" width="500"/>
   
 - Designed and populated sample datasets for validation.
 
@@ -68,10 +68,9 @@ suppliers.csv
 - Created a normalized, scalable schema tailored for an online merchandising business.
 - Derived actionable insights using real SQL queries and relationships.
 
-
 ## Development Tools
 - MySQL (SQL queries & schema creation)
-- DrawIO (ER-Diagram, As-Is Depency, Relational Modeling)
+- DrawIO (ER-Diagram, As-Is Dependency, Relational Modeling)
 - Excel (metadata tables and data modeling)
 - MySQL Workbench (ER diagrams, schema validation)
 - VS Code + SQLFluff (SQL formatting)

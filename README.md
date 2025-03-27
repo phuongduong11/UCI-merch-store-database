@@ -43,7 +43,9 @@ This project designs and analyzes a relational database for a fictional **UCI Sp
     shipment.csv
     suppliers.csv
     ```
-- Created an **ER diagram** in MySQL Workbench
+- Created an **ER diagram** using **MySQL Workbench’s reverse engineering feature** after importing all CSV tables.
+
+  <img src="figures/ER_Diagram_MySQL.png" alt=" ER Diagram - MySQL" width="500"/>
 
 ## Stage 3: Business Insights Using SQL Queries
 
@@ -68,11 +70,12 @@ This project designs and analyzes a relational database for a fictional **UCI Sp
 - Derived actionable insights using real SQL queries and relationships.
 
 ## Development Tools
-- MySQL (SQL queries & schema creation)
-- DrawIO (ER-Diagram, As-Is Dependency, Relational Modeling)
-- Excel (metadata tables and data modeling)
-- MySQL Workbench (ER diagrams, schema validation)
-- VS Code + SQLFluff (SQL formatting)
+- **MySQL Workbench** – Used for visualize schemas,reverse-engineer ER diagrams,run queries
+- **Draw.io** – For drawing conceptual diagrams like ER diagrams and dependency graphs
+- **Microsoft Excel** – For building metadata tables, attribute definitions, and organizing raw data
+- **VS Code** – SQL scripting environment
+- **SQLFluff** – SQL linter for formatting and syntax checking in VS Code
+
   
 ## 📂 Repository Files
 ```

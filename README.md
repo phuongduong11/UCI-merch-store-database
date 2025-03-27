@@ -30,21 +30,20 @@ This project designs and analyzes a relational database for a fictional **UCI Sp
   
   <img src="figures/As-Is Dependency.png" alt="As-Is Dependency" width="500"/>
   
-- Designed and populated sample datasets for validation.
-
-### Data Files
-All CSV files used for table simulation are located in the `/uci_merch_data` folder:
-```
-customer_status.csv
-customers.csv
-merchandise.csv
-order_details.csv
-orders.csv
-payment.csv
-school_department_details.csv
-shipment.csv
-suppliers.csv
-```
+- Designed and populated sample datasets for validation
+  - All CSV files used for table simulation are located in the `/uci_merch_data` folder:
+    ```
+    customer_status.csv
+    customers.csv
+    merchandise.csv
+    order_details.csv
+    orders.csv
+    payment.csv
+    school_department_details.csv
+    shipment.csv
+    suppliers.csv
+    ```
+- Created an **ER diagram** in MySQL Workbench
 
 ## Stage 3: Business Insights Using SQL Queries
 

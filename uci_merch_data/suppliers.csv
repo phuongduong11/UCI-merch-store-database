@@ -1,0 +1,11 @@
+supplier_id,supplier_name,phone_number,email,street,city,state,zipcode,school_affiliation_start_date
+501,Lululemon,(555) 484-6922,dbenjamin@supplier.com,141 Shore Ln, Island City, MA,26091,1/4/2012
+502,Nike,(555) 397-6986,ndennis@supplier.com,161 Harbor Ln, Bay Point, FM,11754,1/5/2014
+503,Champion,(555) 240-4096,cmoore@supplier.com,151 Pearl St, Seaside, SD,55359,1/6/2012
+504,Adidas,(555) 624-2518,lvirginia@supplier.com,505 Walnut St, Coast City, OR,38882,1/7/2017
+505,Under Armour,(555) 295-9426,msamuel@supplier.com,585 Lighthouse Rd, Sea Haven, LA,16239,1/8/2012
+506,On,(555) 588-6666,ehenry@supplier.com,303 Cedar Rd, Star City, WA,67977,1/9/2012
+507,New Balance,(555) 358-7736,nrodriguez@supplier.com,555 Palm Dr, Ocean Side, SC,80429,1/10/2020
+508,Alo,(555) 462-4258,edavis@supplier.com,808 Willow St, Paradise City, FL,28544,1/11/2020
+509,North Face,(555) 655-0661,djane@supplier.com,454 Valley Dr, Bridge Town, CT,90401,1/12/2012
+510,Patagonia,(555) 047-4283,nlauren@supplier.com,686 Canyon St, Desert Springs, NM,80704,1/13/2011

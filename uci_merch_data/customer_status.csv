@@ -1,0 +1,6 @@
+customer_status_id,status_name
+1,Student
+2,Alumni
+3,Staff
+4,Veterans
+5,Other
